@@ -4,12 +4,6 @@
 
 using namespace std;
 
-
-
-
-#include <stdio.h>
-#include <string.h>
-
 int main() {
 	unsigned n,k;
 	cin >> n;
